@@ -1,0 +1,9 @@
+.Dictionary {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+.Dictionary form {
+    display: flex;
+    justify-content: center;
+}
