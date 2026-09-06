@@ -3,7 +3,26 @@
     margin: 0 auto;
     text-align: center;
 }
-.Dictionary form {
-    display: flex;
-    justify-content: center;
+.Dictionary h1 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.Dictionary section {
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 5px 5px rgba(0,0,0,0.1);
+    margin: 20px 0;
+    padding: 30px;
+}
+.Dictionary input {
+    width: 50%;
+    padding: 6px 10px;
+    color: #333;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+.Dictionary .hint {
+    font-size: 12px;
+    margin-top: 5px;
 }
