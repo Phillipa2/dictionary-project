@@ -12,7 +12,7 @@ export default function App() {
       <main>
         <Dictionary defaultKeyword = "colonel"/>
       </main>
-      <footer className="App-footer"><small>This project was coded by Phillipa Atieno</small></footer>
+      <footer className="App-footer"><small>This project was coded by Phillipa Atieno and is <a href="https://github.com/Phillipa2/dictionary-project" target="_blank" rel="noreferrer">open-sourced on GitHub</a> and <a href="https://dictionary-react-project-app.netlify.app/" target="_blank" rel="noreferrer">hosted on Netlify</a>.</small></footer>
       </div>
     </div>
   );
